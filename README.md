@@ -4,11 +4,9 @@
 - 👯 I have strong interest and passion for research.
 - 💬 Mainly interested in speech, signal processing, but eager to explore other domains too.
 
-  **Contact me:**
-  
-<div id="badges">
-  <img src="https://www.linkedin.com/in/ananya-angra-96a1a71b4/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
+  **Contact me:**  
+https://www.linkedin.com/in/ananya-angra-96a1a71b4/
+
 
 <!--
 **anu0707/anu0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
