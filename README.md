@@ -1,6 +1,12 @@
-## Hi there, I am Ananya Angra 👋 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/yePqhUuUFcvZe/giphy.gif?cid=ecf05e47v2b7j2pwwgfyaahsnz1ibe0832yz5vnjucgdnoib&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
-</div>
+## Hi there, I am Ananya Angra 👋 
+- 🔭 I’m currently MTech (By Research) student at IIT Mandi
+- 🌱 I work on Spoken dialect identification
+- 👯 I have strong interest and passion for research.
+- 💬 Mainly interested in speech, signal processing, but eager to explore other domains too.
+
+  **Contact me at:**
+  https://www.linkedin.com/in/ananya-angra-96a1a71b4/
+
 
 <!--
 **anu0707/anu0707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
