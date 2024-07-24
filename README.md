@@ -5,7 +5,7 @@
 - 💬 Mainly interested in speech, signal processing, but eager to explore other domains too.
 
   **Contact me:**
-  https://www.linkedin.com/in/ananya-angra-96a1a71b4/LinkedIn-blue
+  https://www.linkedin.com/in/ananya-angra-96a1a71b4/LinkedIn-blue?logo=linkedin&logoColor=white
 
 
 <!--
