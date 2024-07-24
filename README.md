@@ -7,7 +7,7 @@
   **Contact me:**
   
 <div id="badges">
-  <img src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/ananya-angra-96a1a71b4/LinkedIn-blue?logo=linkedin&logoColor=white)" alt="LinkedIn Badge"/>
+  <img src="https://www.linkedin.com/in/ananya-angra-96a1a71b4/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 
 <!--
