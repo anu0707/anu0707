@@ -1,6 +1,4 @@
-## Hi there, I am Ananya Angra 👋
-
-<div id="header" align="center">
+## Hi there, I am Ananya Angra 👋 <div id="header" align="center">
   <img src="https://media.giphy.com/media/yePqhUuUFcvZe/giphy.gif?cid=ecf05e47v2b7j2pwwgfyaahsnz1ibe0832yz5vnjucgdnoib&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
 
