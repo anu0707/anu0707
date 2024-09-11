@@ -8,8 +8,9 @@ Experience:
 - Project Associate-I IIT Mandi - November 2022 - Ongoing
   
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxsMmN6b2lvb2Z3c3I2NGd4bTFrNHJwdXN2NjM1N3c0cWdiYmk5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7VzgMsB6FLCilwS30v/giphy-downsized-large.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 
 
 <!--
