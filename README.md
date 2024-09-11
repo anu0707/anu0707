@@ -4,6 +4,8 @@
 - 👯 I have strong interest and passion for research.
 - 💬 Mainly interested in speech, signal processing, but eager to explore other domains too.
 
+Experience:
+- Project Associate-I IIT Mandi - November 2022 - Ongoing
   **Contact me:**  
 https://www.linkedin.com/in/ananya-angra-96a1a71b4/
 <div id="badges">
